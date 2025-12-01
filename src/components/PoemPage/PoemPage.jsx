@@ -1,6 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import TypewriterText from "./TypewriterText";
+import TypewriterText from "../TypewriterText";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./PoemPage.css";
 

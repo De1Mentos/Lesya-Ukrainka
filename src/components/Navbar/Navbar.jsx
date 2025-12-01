@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import { appRoutes } from "../routes/routes";
-import LanguageSwitcher from "./LanguageSwitcher";
+import { appRoutes } from "../../routes/routes";
+import LanguageSwitcher from "../LanguageSwitcher/LanguageSwitcher";
 import "./Navbar.css";
 
 const Navbar = () => {
@@ -44,7 +44,7 @@ const Navbar = () => {
                             )
                     )}
 
-                    <li className="nav-item ms-3">
+                    <li className="nav-item ms-3 d-flex align-items-center">
                         <LanguageSwitcher />
                     </li>
                 </ul>

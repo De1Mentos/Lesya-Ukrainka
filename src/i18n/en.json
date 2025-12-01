@@ -1,0 +1,58 @@
+{
+  "pages": {
+    "biography": {
+      "nav": "Lesya Ukrainka",
+      "title": "Life Story of Lesya Ukrainka",
+      "description": "Lesya Ukrainka (Larysa Kosach) was one of Ukraine’s most influential poets, playwrights, and cultural figures. Despite severe illness throughout her life, she created powerful works filled with strength, hope, and an unbreakable spirit. Her poetry became a symbol of resistance, dignity, and love for her homeland."
+    },
+    "poem": {
+      "title": "Writing",
+      "description": "Contemporaries reproached Lesya Ukrainka for writing many dramas on early Christian and ancient themes, and demanded more works on Ukrainian history. But in fact, when Lesya Ukrainka wrote about Greece conquered by Rome, by Greece she meant Ukraine, and in the drama “The Babylonian Captivity” she spoke about the enslaved Ukrainian people who must pass the test and endure. Lesya Ukrainka took a historical background, but spoke about her time.\nMost contemporaries did not understand this, says literary critic Vira Ageeva, adding that in this way the writer also created the foundations for the entry of Ukrainian culture into European culture: “Lesya Ukrainka most consistently, directly, without a Russian intermediary, connected our culture to two fundamental, value-based models of European civilization – Christianity and antiquity.”\n\nThe writer was one of the first to take Ukrainian literature beyond everyday topics, which were often limited to the countryside. For this, she criticized the works of the then recognized Panas Myrny and Ivan Nechuy-Levytsky."
+    },
+    "hope": {
+      "nav": "Hope",
+      "title": "Hope",
+      "description": "No fate, no freedom — only hope remains. The poem speaks of longing for one’s homeland, the desire to return even for a moment, to see the blue Dnipro and the native land once more, whether to live or die. Hope stands as the last light in a world without freedom."
+    },
+    "green_hill": {
+      "nav": "On the Green Hill",
+      "title": "On the Green Hill",
+      "description": "A small cottage rests quietly in a cherry orchard. Like a child, it looks out to see whether its mother appears. The sun comes out gently, shining over the white cottage and filling it with warmth and joy."
+    },
+    "cherries": {
+      "nav": "Cherries",
+      "title": "Cherries",
+      "description": "Shiny, red cherries sparkle among green leaves, tempting little children. Yet the fruits hang too high — the children reach out but cannot grab them. The poem teaches that things grow the way they must: if cherries hung too low, would they ever ripen?"
+    },
+    "listening_to_spring": {
+      "nav": "Listening to Spring",
+      "title": "Listening to Spring",
+      "description": "Spring speaks with songs and whispers — about love, youth, joy, and hope. Every melody she sings echoes the dreams that once lived in the poet’s heart."
+    },
+    "last_flowers": {
+      "nav": "The Last Flowers",
+      "title": "The Last Flowers",
+      "description": "Red roses bloom in autumn like burning wounds, trembling with longing for life or death. The frost will soon strike them down, ending their final spark. Let them drink the sun while they still can."
+    },
+    "song": {
+      "nav": "The Song",
+      "title": "The Song",
+      "description": "Are there flowers more beautiful than spring’s? Are there years more precious than youth? Flowers bloom only once each year, and the finest years come only once in life."
+    },
+    "lily_of_the_valley": {
+      "nav": "Lily of the Valley",
+      "title": "Lily of the Valley",
+      "description": "A delicate lily of the valley grew safely under a tall oak — until a human hand cut its life short. Taken to a grand hall and a lively ball, it slowly withers while music breaks its tender heart. The poem warns: one day even the carefree may remember the fragile flower and realize what was lost."
+    },
+    "summer_has_passed": {
+      "nav": "Summer Has Passed",
+      "title": "Summer Has Passed",
+      "description": "Summer is gone, snow covers the fields, and children long for freedom outdoors. Winter feels endless — yet spring will return, flowers will bloom again, and the fields will turn green once more."
+    },
+    "evening_hour": {
+      "nav": "Evening Hour",
+      "title": "Evening Hour",
+      "description": "The sun has set, the moon shines through the window, and peace fills the night. In the quiet garden, one can forget sorrow. White cottages, nightingales, and the gentle breeze create the calm beauty of native Volyn."
+    }
+  }
+}
