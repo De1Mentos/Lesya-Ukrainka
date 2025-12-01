@@ -1,0 +1,25 @@
+.poem-page {
+    min-height: 100vh;
+}
+
+.poem-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 46px;
+    margin-bottom: 20px;
+}
+
+.poem-image {
+    border-radius: 14px;
+    max-height: 480px;
+    object-fit: cover;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.25);
+}
+
+.poem-text {
+    white-space: pre-wrap;
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;
+    line-height: 1.9;
+    margin: 0;
+    padding: 0;
+}
